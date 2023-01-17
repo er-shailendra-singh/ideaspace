@@ -1,0 +1,19 @@
+/*
+Theme Name: 108 Idea Space
+Description: ideaSpace Child Theme
+Author: Shailendra Singh
+Author URI: https://www.samsquares.org/
+Template: twentytwentyone
+Version: 1.0.0
+*/
+
+
+/*---------------------------------
+    Start:
+------------------------------------*/
+
+/* Logo */
+
+h1.entry-title {
+	font-size: 50px !important;
+}
